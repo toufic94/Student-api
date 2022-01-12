@@ -1,8 +1,9 @@
 # Student-api
 > A list of APIs to update, get and create students with basic authentication.
 
-![Language](https://img.shields.io/badge/node-%3E%3D%206.0.0-brightgreen)
-![Platform](https://img.shields.io/badge/npm-v7.0.0-blue)
+![Language](https://img.shields.io/badge/Node.js-14.7.0-green)
+![Platform](https://img.shields.io/badge/NPM-7.16.0-blue)
+![Platform](https://img.shields.io/badge/MongoDB-4.4.6-orange)
 
 ## Version
 
@@ -12,7 +13,7 @@
 
 - Node.js 8.0.0+
 - Postman
-- MongoDB Compass
+- MongoDB
 - IDE of your choice
 
 ## Getting Started

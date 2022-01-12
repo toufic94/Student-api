@@ -40,7 +40,7 @@ npm 'nodemon'
 
 This app contains 3 APIs to create, edit and fetch a student.
 It contains sample data to get started and middlewares to handle errors and authentication.
-The APIs are shared in postman folder and can be easily imported in the mentioned program.
+The APIs are shared in postman and can be easily imported in the mentioned program.
 
 ### API Endpoints: 
 
